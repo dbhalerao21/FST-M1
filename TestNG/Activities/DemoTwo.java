@@ -1,5 +1,4 @@
-package TestNGActivities;
-
+package suiteExample;
 import org.testng.annotations.Test;
 
 public class DemoTwo {
