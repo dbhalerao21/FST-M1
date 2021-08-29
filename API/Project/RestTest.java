@@ -45,10 +45,5 @@ public void PostRequest() {
 		System.out.println(response);
 	}
 	
-	@Test
-	public void deleteRequest() {
-		
-		
-	}
 	
 }
